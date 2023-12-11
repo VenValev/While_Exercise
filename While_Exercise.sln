@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_EqualSumsEvenOddPossiotio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_SumPrimeNumPrime", "3_SumPrimeNumPrime\3_SumPrimeNumPrime.csproj", "{704559A6-CA6E-4047-B7C9-4B873CE3FBD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TrainTrainer", "4_TrainTrainer\4_TrainTrainer.csproj", "{9E03DAA4-7035-4487-9624-7F3B969DFE11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{704559A6-CA6E-4047-B7C9-4B873CE3FBD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{704559A6-CA6E-4047-B7C9-4B873CE3FBD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{704559A6-CA6E-4047-B7C9-4B873CE3FBD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E03DAA4-7035-4487-9624-7F3B969DFE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E03DAA4-7035-4487-9624-7F3B969DFE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E03DAA4-7035-4487-9624-7F3B969DFE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E03DAA4-7035-4487-9624-7F3B969DFE11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
