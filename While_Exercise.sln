@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Password", "2_Password\2_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_SumNum", "3_SumNum\3_SumNum.csproj", "{2BD9DDAE-8554-4404-B210-15AC17053D59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Sequence_K", "4_Sequence_K\4_Sequence_K.csproj", "{9BD10C49-EA2A-4045-AA51-189BB6E3EAE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2BD9DDAE-8554-4404-B210-15AC17053D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD9DDAE-8554-4404-B210-15AC17053D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD9DDAE-8554-4404-B210-15AC17053D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD10C49-EA2A-4045-AA51-189BB6E3EAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD10C49-EA2A-4045-AA51-189BB6E3EAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD10C49-EA2A-4045-AA51-189BB6E3EAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD10C49-EA2A-4045-AA51-189BB6E3EAE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
