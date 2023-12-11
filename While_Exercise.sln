@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_TrainTrainer", "4_TrainTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_SpecialNumbers", "5_SpecialNumbers\5_SpecialNumbers.csproj", "{36EFAC52-4DC1-43E3-9A72-9C8A54F79BB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_CinemaTickets", "6_CinemaTickets\6_CinemaTickets.csproj", "{C3094563-CFF7-444E-8877-ADB80B073E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{36EFAC52-4DC1-43E3-9A72-9C8A54F79BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36EFAC52-4DC1-43E3-9A72-9C8A54F79BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36EFAC52-4DC1-43E3-9A72-9C8A54F79BB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3094563-CFF7-444E-8877-ADB80B073E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3094563-CFF7-444E-8877-ADB80B073E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3094563-CFF7-444E-8877-ADB80B073E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3094563-CFF7-444E-8877-ADB80B073E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
